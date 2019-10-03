@@ -26,10 +26,9 @@ ein weiteres Canvas mit einem Textelement welches anzeigt wie oft man mit der Ma
 
 Screenshots:
 
-![Screenshot1](images/pic1)
-![Screenshot1](images/pic2)
-![Screenshot1](images/pic3)
-![Screenshot1](images/pic4)
-
+<img src="./images/pic1.png>
+<img src="./images/pic2.png>
+<img src="./images/pic3.png">
+<img src="./images/pic4.png">
 
 
