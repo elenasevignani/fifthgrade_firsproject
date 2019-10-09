@@ -5,7 +5,7 @@ Hover auf Image -> Zahl zeigt an wie oft die Mouse geentert ist
 
 Developement Platform 
 
-MacBook Pro (Retina, 15-inch, Mid 2015) OS X El Capitan 10.11.6, Unity Version 2019.1.14f1
+MacBook Pro (Retina, 15-inch, Mid 2015) OS X El Capitan 10.11.6, Unity Version 2019.2.5f1
 
 Alle Scripts von Julian Propst
 
